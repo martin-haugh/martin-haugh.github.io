@@ -24,9 +24,9 @@ I am an associate editor for Operations Research (Financial Engineering Departme
 
 ## Contact Information
 Martin Haugh                   
-Imperial College Business School
-South Kensington Campus 
-London SW7 2AZ
-United Kingdom         
-Email: m.haugh@ic.ac.uk
-Telephone: +44.(0)20.7594.1819
+Imperial College Business School  
+South Kensington Campus   
+London SW7 2AZ  
+United Kingdom          
+Email: m.haugh@ic.ac.uk  
+Telephone: +44.(0)20.7594.1819  
