@@ -11,8 +11,8 @@ redirect_from:
 I have been at Imperial College Business School since September 2017. Prior to that I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working in the hedge fund industry in New York and London.
 
 ## Research
-..* My main research interests are in: (1) Computational finance and risk management (2) Markov decision processes and sub-optimal control and (3) machine learning / business analytics.
-..* My research papers can be found here.
+* My main research interests are in: (1) Computational finance and risk management (2) Markov decision processes and sub-optimal control and (3) machine learning / business analytics.
+* My research papers can be found here.
 
 ## Teaching
 My teaching blah
