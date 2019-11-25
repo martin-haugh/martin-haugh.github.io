@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is Martin Haugh#s test homepage
+This is Martin Haugh's test homepage
 
