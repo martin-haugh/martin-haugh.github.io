@@ -14,16 +14,16 @@ I have been at Imperial College Business School since September 2017. Prior to t
 * My main research interests are in: (1) Computational finance and risk management (2) Markov decision processes and sub-optimal control and (3) machine learning / business analytics.
 * My research papers can be found here.
 
-## Teaching
+### Teaching
 My teaching blah
 
 In spring 2013 I co-taught with Garud Iyengar one of the first three MOOCs, i.e. massive open online courses, to be offered by Columbia University. The course was called Financial Engineering and Risk Management and it also featured an interview with Emanuel Derman. This course has now been split into two separate 6-week courses, [FE & RM Part I](https://www.coursera.org/course/fe1) and [FE & RM Part II](https://www.coursera.org/course/fe2). Business Insider listed FE & RM Part I as one of the [best free online business courses](http://www.businessinsider.com/best-free-online-business-courses-2013-10?op=1). In 2013 I was also awarded the Columbia Engineering School Alumni Association’s Distinguished Faculty Teaching Award for excellence in teaching.
 
-## External Service
+### External Service
 I am an Associate Editor for Operations Research (Financial Engineering Department) and Management Science (Stochastics and Finance Departments).
 
-## Contact Information
-Martin Haugh
+### Contact Information
+Martin Haugh  
 Department of Analytics, Marketing & Operations  
 Imperial College Business School  
 South Kensington Campus   
