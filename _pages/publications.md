@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -17,10 +17,10 @@ author_profile: true
 {% endfor %} 
 --->
 
-## Working papers
+## Working Papers
 
 
-## Published Paper
+## Published Papers
 
 
 ## Other Publications
