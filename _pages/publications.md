@@ -69,9 +69,14 @@ _Quantitative Finance_, Vol 1, No 1, Jan, pp 45-72, 2001.
 _Mathematical Proceedings of the Royal Irish Academy_, Vol 97, December, No 2, pp 123-129, 1997.
 
 ### Other Publications
-
+* [Duality Theory and Simulation in Financial Engineering](https://martin-haugh.github.io/files/Research/wsc03.pdf).  
+_Proceedings of the 2003 Winter Simulation Conference_, pp327-334, 2003.
+* Computational Challenges in Portfolio Management, with Andrew W. Lo.  
+_Computing in Science and Engineering_, May/June, Vol. 3, No. 3, pp 54-59, 2001.
 
 ### Permanent  Working Papers
-
+* [Portfolio Optimization with Position Constraints: an Approximate Dynamic Programming Approach](https://martin-haugh.github.io/files/Research/ADP_Dual_Oct06.pdf) (2006), with Leonid Kogan and Zhen Wu.
 
 ### Book Chapters
+* [Duality and Approximate Dynamic Programming for Pricing American Options and Portfolio Optimization](https://martin-haugh.github.io/files/Research/Chap22.pdf) with Leonid Kogan.  
+In J.R. Birge and V. Linetsky (Eds.), _Handbooks in OR and MS_, Vol. 15, pp 925-948. Elsevier, 2008.
