@@ -23,7 +23,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 ## Published Papers
 * [Information Relaxations and Dynamic Zero-Sum Games](https://arxiv.org/abs/1405.4347) (2014), with Chun Wang.
-* [A Cournot-Stackelberg Model of Supply Contracts with Financial Hedging](/files/Master_Cournot-Stackelberg_R1.pdf) (2016), with Rene Caldentey.
+* [A Cournot-Stackelberg Model of Supply Contracts with Financial Hedging](http://martin-haugh.github.io/files/Master_Cournot-Stackelberg_R1.pdf) (2016), with Rene Caldentey.
 
 ## Other Publications
 *  My first example will be numbered (3).
