@@ -17,7 +17,7 @@ My main research interests are:
 2. _Dynamic programing and stochastic control_   
    <small> I've mainly been working on the problems related to _information relaxations_. These ideas allow for the construction of tight lower and upper bounds on the optimal value functions of problems where it is too difficult to compute the optimal value function and policy exactly . </small>
 3. _Data analytics_  
-   <small> I've been working in the area of sports analytics recently and have also begun working on some problems related to politics and elections. </small>
+   <font size = "-1"> I've been working in the area of sports analytics recently and have also begun working on some problems related to politics and elections. </font>
 
 My research papers can be found [here](/publications).
 
