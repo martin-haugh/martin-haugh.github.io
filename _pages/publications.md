@@ -30,8 +30,12 @@ Forthcoming in _Management Science_.
 A shorter version of this paper was a finalist in the 2018 MIT Sloan Sports Analytics contest.
 * [Information Relaxation Bounds for Partially Observed Markov Decision Processes](https://martin-haugh.github.io/files/Research/POMDP_IR_March_2019.pdf) (2017), with Octavio Ruiz Lacedelli.  
 Forthcoming in _IEEE Transactions on Automatic Control_.
-* [The Advantage of Lefties in One-On-One Sports](), with Francois Fagan and Hal Cooper.  
+* [The Advantage of Lefties in One-On-One Sports](https://www.degruyter.com/view/j/jqas.2019.15.issue-1/jqas-2017-0076/jqas-2017-0076.xml), with Francois Fagan and Hal Cooper.  
   _Journal of Quantitative Analysis in Sports_, Vol. 15, Issue 1, pp 1-25, 2018.
+* [Information Relaxation Bounds for Infinite Horizon Markov Decision Processes](https://martin-haugh.github.io/files/Research/InfoRelaxation_OR.pdf), with David Brown.  
+_Operations Research_, Vol. 65, No. 5, pp 1355-1379, 2017.  
+An additional appendix with some further examples is [here](https://martin-haugh.github.io/files/Research/Infinite_Horizon_Online_Appendix.pdf).
+* 
 
 
 
