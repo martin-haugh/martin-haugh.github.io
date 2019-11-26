@@ -16,11 +16,11 @@ author_profile: true
 I have taught the following courses for the MSFE and MSOR programs in the IE & OR Department at Columbia University. Course material in some instances can be found by following the corresponding link.
 
 * <font size = "-2"> IEOR E4525  Machine Learning for OR and FE (Last taught in spring 2017) </font>
-* IEOR E4703  Monte Carlo Simulation  (Last taught in spring 2017)
-* IEOR E4706  Foundations of Financial Engineering (Last taught in fall 2015)
-* IEOR E4602  Quantitative Risk Management (Last taught in spring 2016)
-* IEOR E4728  Advanced Programming for Financial Engineering (Last taught in fall 2014 with Fadi Kaddoura)
-* IEOR E6703  Advanced Financial Engineering (PhD course; last taught in fall 2011)
-* IEOR E4707  Financial Engineering: Continuous-Time Models (Last taught in fall 2013)
-* IEOR E4710  Term Structure Models (Last taught in spring 2012)
+* <font size = "-2"> IEOR E4703  Monte Carlo Simulation  (Last taught in spring 2017) </font>
+* <font size = "-2"> IEOR E4706  Foundations of Financial Engineering (Last taught in fall 2015) </font>
+* <font size = "-2"> IEOR E4602  Quantitative Risk Management (Last taught in spring 2016) </font>
+* <font size = "-2"> IEOR E4728  Advanced Programming for Financial Engineering (Last taught in fall 2014 with Fadi Kaddoura) </font>
+* <font size = "-2"> IEOR E6703  Advanced Financial Engineering (PhD course; last taught in fall 2011) </font>
+* <font size = "-2"> IEOR E4707  Financial Engineering: Continuous-Time Models (Last taught in fall 2013) </font>
+* <font size = "-2"> IEOR E4710  Term Structure Models (Last taught in spring 2012) </font>
 
