@@ -14,11 +14,11 @@ I am an Associate Professor of Analytics and Operations Research at [Imperial Co
 My main research interests are: 
 
 1. _Quantitative finance and risk management_    
-   <sub> Recently I've been working on problems related to portfolio optimization with taxes as well as scenario analysis in risk managment.</sub>  
+   <sup> Recently I've been working on problems related to portfolio optimization with taxes as well as scenario analysis in risk managment.</sup>  
 2. _Dynamic programing and stochastic control_   
    <sup> blah blah blah </sup>
 3. _Data analytics_  
-   <sup><sub> blah blah blah </sub> </sup>
+   <sup> blah blah blah </sup>
 
 My research papers can be found [here](/publications).
 
