@@ -41,8 +41,13 @@ _Operations Research_, Vol. 64, No. 4, pp 849-866, 2016.
 _Journal of Computational Finance_, Vol. 21, No. 2, pp 29-60, 2017.
 * [Consistent Pricing of Options on Leveraged ETFs](https://epubs.siam.org/doi/pdf/10.1137/151003933), with Andrew Ahn and Ashish Jain.  
 _SIAM J. Financial Math_, Vol. 6, pp 559-593, 2015.
+* [Linear Programming and the Control of Diffusion Processes](https://martin-haugh.github.io/files/Research/LP_HJB_Duality.pdf), with Andrew Ahn.  
+_INFORMS Journal on Computing_, Vol. 27, No. 4, Fall pp 646-657, 2015.
+* [Dynamic Portfolio Execution and Information Relaxations](https://martin-haugh.github.io/files/Research/PublishedPortfolioExecution.pdf), with Chun Wang.  
+_SIAM J. Financial Math_, Vol. 5, pp 316-359, 2014.
 * 
-
+* 
+* 
 
 ### Other Publications
 
