@@ -7,7 +7,7 @@ author_profile: true
 
 <!---
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  You can find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a></u> but they are also listed below with links to the PDFs in some cases.
 {% endif %}
 
 {% include base_path %}
