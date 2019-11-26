@@ -18,7 +18,7 @@ My main research interests are:
 2. _Dynamic programing and stochastic control_   
    <sup> blah blah blah </sup>
 3. _Data analytics_  
-   ###### blah blah blah ######
+   <small> I've been working in the area of sports analytics recently and have also begun working on some problems related to politics and the electoral college of U.S. presidential elections. </small>
 
 My research papers can be found [here](/publications).
 
