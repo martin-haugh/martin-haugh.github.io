@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Analytics and Operations Research at Imperial College Business School where I have been since September 2017. Prior to that I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working as a quant  in the hedge fund industry in New York and London. I have a Ph.D. in [Operations Research](http://orc.mit.edu/) from [MIT] and MSc degrees in [Applied Statistics](https://www.stats.ox.ac.uk/) and [Mathematics](https://www.ucc.ie/en/matsci/) from the University of Oxford and University College Cork, respectively.
+I am an Associate Professor of Analytics and Operations Research at [Imperial College Business School](https://www.imperial.ac.uk/business-school/) where I have been since September 2017. Prior to that I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working as a quant  in the hedge fund industry in New York and London. I have a Ph.D. in [Operations Research](http://orc.mit.edu/) from MIT and MSc degrees in [Applied Statistics](https://www.stats.ox.ac.uk/) and [Mathematics](https://www.ucc.ie/en/matsci/) from the University of Oxford and University College Cork, respectively.
 
 ## Research
 My main research interests are: 
 
-1. Quantitative finance and risk management 
-2. Dynamic programing and stochastic control 
-3. Data analytics
+1. _Quantitative finance and risk management_ 
+2. **Dynamic programing and stochastic control** 
+3. **_Data analytics_**
 
 My research papers can be found here.
 
