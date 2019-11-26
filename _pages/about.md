@@ -17,7 +17,7 @@ My main research interests are:
 2. **Dynamic programing and stochastic control** 
 3. **_Data analytics_**
 
-My research papers can be found here.
+My research papers can be found [here](/publications).
 
 ## Teaching
 My teaching blah
