@@ -17,6 +17,8 @@ My main research interests are:
 
    <sub>Recently I've been working on problems related to portfolio optimization with taxes as well as scenario analysis in risk managment.</sub>  
 2. **_Dynamic programing and stochastic control_** 
+
+   <sup> blah blah blah </sup>
 3. **_Data analytics_**
 
 My research papers can be found [here](/publications).
