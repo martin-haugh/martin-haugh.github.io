@@ -49,7 +49,17 @@ _SIAM J. Financial Math_, Vol. 5, pp 316-359, 2014.
 _Operations Research Letters_, Vol 40, Issue 6, pp 521-528, 2011.
 * [A Unified Approach to Multiple Stopping and Duality](https://www.sciencedirect.com/science/article/pii/S0167637712000442), with Shyam Chandramouli.  
 _Operations Research Letters_, Vol 40, Issue 4, pp 258-264, 2012.
-* 
+* [A Note on  Constant Proportion Trading Strategies](https://www.sciencedirect.com/science/article/pii/S0167637711000320).  
+_Operations Research Letters_, Vol. 39, Issue 3, pp 172-179, 2011.
+* [The Dual Approach to Portfolio Evaluation: A Comparison of the Static, Myopic and Generalized Buy-and-Hold Strategies](https://www.tandfonline.com/doi/full/10.1080/14697681003712870), with Ashish Jain.  
+_Quantitative Finance_, Vol. 11, No. 1 pp 81-99, 2011.
+* [Supply Contracts with Financial Hedging](https://pubsonline.informs.org/doi/abs/10.1287/opre.1080.0521), with Rene Caldentey.  
+_Operations Research_, Vol. 57, No.1, January-February, pp 47-65, 2009.
+* [Cross-Path Regressions and Pathwise Estimators: An Application to Evaluating Portfolio Strategies](https://martin-haugh.github.io/files/Research/wsc07paperDuality_HaughJain.pdf), with Ashish Jain.  
+_Proceedings of the 2007 Winter Simulation Conference_, 2007.
+*
+*
+*
 *
 *
 
