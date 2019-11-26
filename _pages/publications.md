@@ -23,7 +23,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 * [A Cournot-Stackelberg Model of Supply Contracts with Financial Hedging](http://martin-haugh.github.io/files/Master_Cournot-Stackelberg_R1.pdf) (2016), with Rene Caldentey.
 
 ## Published Papers
-*  [Scenario Analysis for Derivatives Portfolios via Dynamic Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3424127) (2019), with Octavio Ruiz Lacedelli. Forthcoming in __Quantitative Finance__.
+* [Scenario Analysis for Derivatives Portfolios via Dynamic Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3424127) (2019), with Octavio Ruiz Lacedelli. Forthcoming in _Quantitative Finance_.
 
 ## Other Publications
 
