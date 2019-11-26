@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 I am an Associate Professor of Analytics and Operations Research at [Imperial College Business School](https://www.imperial.ac.uk/business-school/) where I have been since September 2017. Prior to that I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working as a quant  in the hedge fund industry in New York and London. I have a Ph.D. in [Operations Research](http://orc.mit.edu/) from MIT and MSc degrees in [Applied Statistics](https://www.stats.ox.ac.uk/) and [Mathematics](https://www.ucc.ie/en/matsci/) from the University of Oxford and University College Cork, respectively.
+---
 
 ## Research
 My main research interests are in the areas of:
@@ -21,7 +22,7 @@ My main research interests are in the areas of:
 
 My research papers can be found [here](/publications).
 ## Teaching
-My teaching blah
+All of my teaching at Columbia was at the graduate level and focussed on various courses for the Msc degrees there in Financial Engineering and Operations Research. These courses included 
 
 In spring 2013 I co-taught with Garud Iyengar one of the first three MOOCs, i.e. massive open online courses, to be offered by Columbia University. The course was called Financial Engineering and Risk Management and it also featured an interview with Emanuel Derman. This course has now been split into two separate 6-week courses, [FE & RM Part I](https://www.coursera.org/course/fe1) and [FE & RM Part II](https://www.coursera.org/course/fe2). Business Insider listed FE & RM Part I as one of the [best free online business courses](http://www.businessinsider.com/best-free-online-business-courses-2013-10?op=1). In 2013 I was also awarded the Columbia Engineering School Alumni Association’s Distinguished Faculty Teaching Award for excellence in teaching.
 
