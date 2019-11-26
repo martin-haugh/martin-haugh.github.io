@@ -45,9 +45,13 @@ _SIAM J. Financial Math_, Vol. 6, pp 559-593, 2015.
 _INFORMS Journal on Computing_, Vol. 27, No. 4, Fall pp 646-657, 2015.
 * [Dynamic Portfolio Execution and Information Relaxations](https://martin-haugh.github.io/files/Research/PublishedPortfolioExecution.pdf), with Chun Wang.  
 _SIAM J. Financial Math_, Vol. 5, pp 316-359, 2014.
+* [Linear-Quadratic Control and Information Relaxations](https://martin-haugh.github.io/files/Research/LQ_Control_Duality.pdf), with Andrew Lim.  
+_Operations Research Letters_, Vol 40, Issue 6, pp 521-528, 2011.
+* [A Unified Approach to Multiple Stopping and Duality](https://www.sciencedirect.com/science/article/pii/S0167637712000442), with Shyam Chandramouli.  
+_Operations Research Letters_, Vol 40, Issue 4, pp 258-264, 2012.
 * 
-* 
-* 
+*
+*
 
 ### Other Publications
 
