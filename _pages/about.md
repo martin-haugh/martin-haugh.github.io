@@ -20,7 +20,6 @@ My main research interests are in the areas of:
    <font size = "-2"> I've been working in the area of sports analytics recently and have also begun working on some problems related to politics and elections. </font>
 
 My research papers can be found [here](/publications).
-
 ## Teaching
 My teaching blah
 
