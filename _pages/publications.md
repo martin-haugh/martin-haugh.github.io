@@ -35,9 +35,13 @@ Forthcoming in _IEEE Transactions on Automatic Control_.
 * [Information Relaxation Bounds for Infinite Horizon Markov Decision Processes](https://martin-haugh.github.io/files/Research/InfoRelaxation_OR.pdf), with David Brown.  
 _Operations Research_, Vol. 65, No. 5, pp 1355-1379, 2017.  
 An additional appendix with some further examples is [here](https://martin-haugh.github.io/files/Research/Infinite_Horizon_Online_Appendix.pdf).
+* [Tax-Aware Dynamic Asset Allocation](https://martin-haugh.github.io/files/Research/OR_TaxAssetAllocation_Published.pdf), with Garud Iyengar and Chun Wang.  
+_Operations Research_, Vol. 64, No. 4, pp 849-866, 2016.
+* [A Generalized Risk Budgeting Approach to Portfolio Construction](https://martin-haugh.github.io/files/Research/A_generalized_risk_budgeting_approach.pdf), with Garud Iyengar and Irene Song.  
+_Journal of Computational Finance_, Vol. 21, No. 2, pp 29-60, 2017.
+* [Consistent Pricing of Options on Leveraged ETFs](https://epubs.siam.org/doi/pdf/10.1137/151003933), with Andrew Ahn and Ashish Jain.  
+_SIAM J. Financial Math_, Vol. 6, pp 559-593, 2015.
 * 
-
-
 
 
 ### Other Publications
