@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have been at Imperial College Business School since September 2017. Prior to that I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working in the hedge fund industry in New York and London.
+I am an Associate Professor of Analytics and Operations Research at Imperial College Business School where I have been since September 2017. Prior to that I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working as a quant  in the hedge fund industry in New York and London. I have a Ph.D. in Operations Research from the [MIT](http://orc.mit.edu/) and MSc degrees in [Applied Statistics](https://www.stats.ox.ac.uk/) and [Mathematics](https://www.ucc.ie/en/matsci/) from the University of Oxford and University College Cork, respectively.
 
 ## Research
 My main research interests are: 
