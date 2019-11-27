@@ -13,11 +13,11 @@ A syllabus and description of the course logistics can be found
 
 ### Lecture Notes
 
-1. Martingale Pricing in Discrete-Time and Discrete-Space  
+1. [Martingale Pricing in Discrete-Time and Discrete-Space](https://martin-haugh.github.io/files/ContinuousFE/)  
    (These are the notes from the Foundations of FE course as they are a little more up-to-date than the version I used in 2013.)
-2. An Introduction to Stochastic Calculus for Diffusions
-3. Black-Scholes and the Volatility Surface
-4. Foreign Exchange, ADR’s and Quanto Securities
-5. Local Volatility, Stochastic Volatility and Jump-Diffusion Models
+2. [An Introduction to Stochastic Calculus for Diffusions](https://martin-haugh.github.io/files/ContinuousFE/)
+3. [Black-Scholes and the Volatility Surface](https://martin-haugh.github.io/files/ContinuousFE/)
+4. [Foreign Exchange, ADR’s and Quanto Securities](https://martin-haugh.github.io/files/ContinuousFE/)
+5. [Local Volatility, Stochastic Volatility and Jump-Diffusion Models](https://martin-haugh.github.io/files/ContinuousFE/)
 
 The assignments for this course were drawn from the exercises at the end of each set of lecture notes.
