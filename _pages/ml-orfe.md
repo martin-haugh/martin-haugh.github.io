@@ -30,7 +30,7 @@ Tibshirani](http://www.statlearning.com/) (2) [David Barber](http://web4.cs.ucl.
 2. [Classification I](https://martin-haugh.github.io/files/MachineLearningORFE/Classification1_MasterSlides.pdf) (k-NN, Naïve Bayes, LDA & QDA, logistic regression, optimal Bayes classifier, reduced-rank LDA)
 3. [Resampling Methods](https://martin-haugh.github.io/files/MachineLearningORFE/ResamplingMethods.pdf) (Bootstrap; cross-validation)
 4. [Regression II](https://martin-haugh.github.io/files/MachineLearningORFE/Regression_II.pdf) (Subset selection, ridge regression, Lasso etc.)
-5. [Classification II](https://martin-haugh.github.io/files/MachineLearningORFE/) (Classification & Regression Trees, Bagging, Random Forests & Boosting)
+5. Classification II (Classification & Regression Trees, Bagging, Random Forests & Boosting)
 6. [Clustering](https://martin-haugh.github.io/files/MachineLearningORFE/Clustering_MasterSlides.pdf)
 7. An Introduction to Causality
 8. [Support Vector Machines](https://martin-haugh.github.io/files/MachineLearningORFE/SVMs_MasterSlides.pdf)
