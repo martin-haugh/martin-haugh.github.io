@@ -25,19 +25,19 @@ Tibshirani](http://www.statlearning.com/) (2) [David Barber](http://web4.cs.ucl.
 
 ### Lecture Slides (and Occasional Notes)
 
-0. Very Brief Introduction to Machine Learning
-1. Regression I (Linear regression, bias-variance decomposition)
-2. Classification I (k-NN, Naïve Bayes, LDA & QDA, logistic regression, optimal Bayes classifier, reduced-rank LDA)
-3. Resampling Methods (Bootstrap; cross-validation)
-4. Regression II (Subset selection, ridge regression, Lasso etc.)
-5. Classification II (Classification & Regression Trees, Bagging, Random Forests & Boosting)
-6. Clustering
+0. [Very Brief Introduction to Machine Learning](Intro_MasterSlides.pdf)
+1. [Regression I](Regression_I.pdf) (Linear regression, bias-variance decomposition)
+2. [Classification I]() (k-NN, Naïve Bayes, LDA & QDA, logistic regression, optimal Bayes classifier, reduced-rank LDA)
+3. [Resampling Methods]() (Bootstrap; cross-validation)
+4. [Regression II]() (Subset selection, ridge regression, Lasso etc.)
+5. [Classification II]() (Classification & Regression Trees, Bagging, Random Forests & Boosting)
+6. [Clustering]()
 7. An Introduction to Causality
-8. Support Vector Machines
+8. [Support Vector Machines]()
 9. Kernels & the Kernel Trick (including reproducing kernel Hilbert spaces (RKHS))
-10. The EM Algorithm (Notes and slides)
-11. Dimension Reduction Methods (PCA, kernel PCA, recommender systems and matrix factorization, PageRank)
+10. The EM Algorithm ([Notes]() and [slides]())
+11. [Dimension Reduction Methods]() (PCA, kernel PCA, recommender systems and matrix factorization, PageRank)
 12. Hidden Markov Models (HMMs)
-13. Bayesian Models and MCMC (Notes and slides from my Monte-Carlo Simulation course)
+13. Bayesian Models and MCMC ([Notes]() and [slides]() from my Monte-Carlo Simulation course)
 14. Introduction to Graphical Models (Directed acyclic graphs (DAGs) and Markov random fields)
-15. Variational Inference (KL divergence, variational Bayes, expectation propagation)
+15. [Variational Inference]() (KL divergence, variational Bayes, expectation propagation)
