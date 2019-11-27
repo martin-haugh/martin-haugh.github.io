@@ -36,7 +36,7 @@ Tibshirani](http://www.statlearning.com/) (2) [David Barber](http://web4.cs.ucl.
 8. [Support Vector Machines](https://martin-haugh.github.io/files/MachineLearningORFE/SVMs_MasterSlides.pdf)
 9. Kernels & the Kernel Trick (including reproducing kernel Hilbert spaces (RKHS))
 10. The EM Algorithm ([Notes](https://martin-haugh.github.io/files/MachineLearningORFE/EM_Algorithm.pdf) and [slides](https://martin-haugh.github.io/files/MachineLearningORFE/EM_MasterSlides.pdf))
-11. [Dimension Reduction Methods](https://martin-haugh.github.io/files/MachineLearningORFE/) (PCA, kernel PCA, recommender systems and matrix factorization, PageRank)
+11. [Dimension Reduction Methods](https://martin-haugh.github.io/files/MachineLearningORFE/DimRed_MatrixDecomp_MasterSlides.pdf) (PCA, kernel PCA, recommender systems and matrix factorization, PageRank)
 12. [Hidden Markov Models](https://martin-haugh.github.io/files/MachineLearningORFE/HMMs_MasterSlides.pdf) (HMMs)
 13. Bayesian Models and MCMC ([Notes](https://martin-haugh.github.io/files/MachineLearningORFE/MCMC_Bayes.pdf) and [slides](https://martin-haugh.github.io/files/MachineLearningORFE/MCMC_MasterSlides.pdf) from my Monte-Carlo Simulation course)
 14. Introduction to Graphical Models (Directed acyclic graphs (DAGs) and Markov random fields)
