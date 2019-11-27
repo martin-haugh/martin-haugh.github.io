@@ -15,8 +15,8 @@ I last taught this advanced-level MS course in fall 2016 in the IE&OR Department
 4. [An Introduction to Copulas](https://martin-haugh.github.io/files/QRM/) and [slides](https://martin-haugh.github.io/files/QRM/)
 5. [Risk Measures, Risk Aggregation and Capital Allocation](https://martin-haugh.github.io/files/QRM/) and [slides](https://martin-haugh.github.io/files/QRM/)
 6. [Model Risk](https://martin-haugh.github.io/files/QRM/) and [slides](https://martin-haugh.github.io/files/QRM/) (The maths behind the some of the derivatives models in these notes is somewhat advanced. Students were not expected to know this.)
-7. [Asset Allocation and Risk Management] and [slides](https://martin-haugh.github.io/files/QRM/)
-8. [Monte-Carlo Methods for Risk Management] and [slides](https://martin-haugh.github.io/files/QRM/)
+7. [Asset Allocation and Risk Management](https://martin-haugh.github.io/files/QRM/) and [slides](https://martin-haugh.github.io/files/QRM/)
+8. [Monte-Carlo Methods for Risk Management](https://martin-haugh.github.io/files/QRM/) and [slides](https://martin-haugh.github.io/files/QRM/)
 9. [Extreme Value Theory](https://martin-haugh.github.io/files/QRM/) (The course never made it this far in 2016)
 10. [Risk Management & Time Series](https://martin-haugh.github.io/files/QRM/) (Nor did the course get this far in 2016)
 
@@ -25,7 +25,7 @@ A brief review of some derivatives pricing theory can be found [here](https://ma
 ### Assignments
 
 * [Assignment 1](https://martin-haugh.github.io/files/QRM/) and [spreadsheet](https://martin-haugh.github.io/files/QRM/) and [explanatory file](https://martin-haugh.github.io/files/QRM/)
-* [Assignment 2(https://martin-haugh.github.io/files/QRM/) and [spreadsheet](https://martin-haugh.github.io/files/QRM/)
+* [Assignment 2](https://martin-haugh.github.io/files/QRM/) and [spreadsheet](https://martin-haugh.github.io/files/QRM/)
 * [Assignment 3](https://martin-haugh.github.io/files/QRM/) and [spreadsheet](https://martin-haugh.github.io/files/QRM/) and [Matlab file](https://martin-haugh.github.io/files/QRM/)
 * [Assignment 4](https://martin-haugh.github.io/files/QRM/)
 * [Assignment 5](https://martin-haugh.github.io/files/QRM/)
