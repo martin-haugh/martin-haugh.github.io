@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "IEOR E4525: Machine Learning for OR & FE (Columbia University)"
-permalink: /ml-orfe/
+permalink:  /teaching/ml-orfe/
 author_profile: true
 ---
 ### IEOR E4525: Machine Learning for OR & FE (Columbia University)
