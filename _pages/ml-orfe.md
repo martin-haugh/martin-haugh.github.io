@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "IEOR E4525: Machine Learning for OR & FE (Columbia University)"
+permalink: /ml-orfe/
+author_profile: true
+---
 ### IEOR E4525: Machine Learning for OR & FE (Columbia University)
 
 I last taught this advanced-level MS course in spring 2017 in the IE&OR Department at Columbia University. 
