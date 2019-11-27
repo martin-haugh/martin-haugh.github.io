@@ -29,6 +29,6 @@ I have taught the following courses for the MSFE and MSOR programs in the IE & O
               (PhD course; last taught in fall 2011) 
 * IEOR E4707  Financial Engineering: Continuous-Time Models   
               (Last taught in fall 2013) 
-* IEOR E4710  Term Structure Models 
+* IEOR E4710  Term Structure Models   
               (Last taught in spring 2012) 
 
