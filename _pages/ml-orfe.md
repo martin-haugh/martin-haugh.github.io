@@ -25,7 +25,7 @@ Tibshirani](http://www.statlearning.com/) (2) [David Barber](http://web4.cs.ucl.
 
 ### Lecture Slides (and Occasional Notes)
 
-0. [Very Brief Introduction to Machine Learning](Intro_MasterSlides.pdf)
+0. [Very Brief Introduction to Machine Learning](https://martin-haugh.github.io/files/MachineLearningORFE/Intro_MasterSlides.pdf)
 1. [Regression I](Regression_I.pdf) (Linear regression, bias-variance decomposition)
 2. [Classification I]() (k-NN, Naïve Bayes, LDA & QDA, logistic regression, optimal Bayes classifier, reduced-rank LDA)
 3. [Resampling Methods]() (Bootstrap; cross-validation)
