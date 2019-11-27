@@ -19,3 +19,11 @@ author_profile: true
 8. Other Topics and [slides](https://martin-haugh.github.io/files/MonteCarlo/MCS_Miscellany_MasterSlides.pdf)
 
 ### Assignments
+* Assignment 1
+* Assignment 2
+* Assignment 3
+* Assignment 4
+* Assignment 5
+* Assignment 6
+* Assignment 7
+* Assignment 8
