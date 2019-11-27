@@ -19,11 +19,11 @@ author_profile: true
 8. Other Topics and [slides](https://martin-haugh.github.io/files/MonteCarlo/MCS_Miscellany_MasterSlides.pdf)
 
 ### Assignments
-* Assignment 1
-* Assignment 2
-* Assignment 3
-* Assignment 4
-* Assignment 5
-* Assignment 6
-* Assignment 7
-* Assignment 8
+* [Assignment 1](https://martin-haugh.github.io/files/MonteCarlo/Assign1_2017.pdf)
+* [Assignment 2](https://martin-haugh.github.io/files/MonteCarlo/Assign2_2017.pdf)
+* [Assignment 3](https://martin-haugh.github.io/files/MonteCarlo/Assign3_2017.pdf)
+* [Assignment 4](https://martin-haugh.github.io/files/MonteCarlo/Assign4_2017.pdf)
+* [Assignment 5](https://martin-haugh.github.io/files/MonteCarlo/Assign5_2017.pdf)
+* [Assignment 6](https://martin-haugh.github.io/files/MonteCarlo/Assign6_2017.pdf)
+* [Assignment 7](https://martin-haugh.github.io/files/MonteCarlo/Assign7_2017.pdf)
+* [Assignment 8](https://martin-haugh.github.io/files/MonteCarlo/Assign8_2017.pdf)
