@@ -19,7 +19,7 @@ I have taught the following courses for the MSFE and MSOR programs in the IE & O
               (Last taught in spring 2017)
 * IEOR E4703  [Monte Carlo Simulation](/teaching/monte-carlo)    
               (Last taught in spring 2017) 
-* IEOR E4706  Foundations of Financial Engineering   
+* IEOR E4706  [Foundations of Financial Engineering](/teaching/foundations-fe)  
               (Last taught in fall 2015) 
 * IEOR E4602  Quantitative Risk Management   
               (Last taught in spring 2016) 
