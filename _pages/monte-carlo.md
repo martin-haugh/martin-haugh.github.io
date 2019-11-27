@@ -4,7 +4,7 @@ title: "IEOR E4703: Monte-Carlo Simulation "
 permalink:  /teaching/monte-carlo/
 author_profile: true
 ---
-
+I last taught this advanced-level MS course in spring 2017 in the IE&OR Department at Columbia University. The focus of the course was on Monte-Carlo methods with applications in finance but other application areas were also considered, particularly when it came to the topic of MCMC and Bayesian modeling. I will **not** be posting solutions to the assignments or code / software so please don’t send me an email asking me to do so! A syllabus and description of the course logistics can be found [here](https://martin-haugh.github.io/files/MonteCarlo/IEOR-E703-Logistics-2017.pdf).
 
 
 ### Lecture Notes and Slides
