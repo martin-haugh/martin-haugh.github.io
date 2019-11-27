@@ -15,9 +15,8 @@ me to do so!  Finally, please note that I do not have time to answer emails aski
 issues arising in these notes and assignments. 
 --->
 A syllabus and description of the course logistics from spring 2017 (when I co-taught the course with Garud 
-Iyengar) can be found here.  I'm also grateful to the excellent textbooks of (1) James, Witten, Hastie & 
-Tibshirani (2) David Barber and (3) Christopher Bishop. Many of the figures in the slides below were taken 
-from these sources. 
+Iyengar) can be found here.  I'm also grateful to the excellent textbooks of (1) [James, Witten, Hastie & 
+Tibshirani](http://www.statlearning.com/) (2) [David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) and (3) [Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/). Many of the figures in the slides below were taken from these sources. 
 
 ### Lecture Slides (and Occasional Notes)
 
