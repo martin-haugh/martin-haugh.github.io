@@ -14,26 +14,26 @@ logistics can be found [here](https://martin-haugh.github.io/files/FoundationsFE
 
 ### Lecture Notes
 
-0. Some Pre-Requisite Material
-1. Forwards, Swaps, Futures and Options
-2. Martingale Pricing  (Some of this material is tedious but it is the most important part of the course if you want to understand derivatives pricing in depth!) 
-3. Term Structure Models
-4. Mean-Variance Analysis and the CAPM
-5. Stochastic Calculus
-6. Black-Scholes
-7. Credit Modeling
-8. Real Options
-9. Other Topics (The course never made it this far)
+0. [Some Pre-Requisite Material](https://martin-haugh.github.io/files/FoundationsFE/)
+1. [Forwards, Swaps, Futures and Options](https://martin-haugh.github.io/files/FoundationsFE/)
+2. [Martingale Pricing](https://martin-haugh.github.io/files/FoundationsFE/)  (Some of this material is tedious but it is the most important part of the course if you want to understand derivatives pricing in depth!) 
+3. [Term Structure Models](https://martin-haugh.github.io/files/FoundationsFE/)
+4. [Mean-Variance Analysis and the CAPM](https://martin-haugh.github.io/files/FoundationsFE/)
+5. [Stochastic Calculus](https://martin-haugh.github.io/files/FoundationsFE/)
+6. [Black-Scholes](https://martin-haugh.github.io/files/FoundationsFE/)
+7. [Credit Modeling](https://martin-haugh.github.io/files/FoundationsFE/)
+8. [Real Options](https://martin-haugh.github.io/files/FoundationsFE/)
+9. [Other Topics](https://martin-haugh.github.io/files/FoundationsFE/) (The course never made it this far)
 
 ### Assignments
 
-* Assignment 1
-* Assignment 2
-* Assignment 3
-* Assignment 4
-* Assignment 5
-* Assignment 6
-* Assignment 7
-* Assignment 8
-* Assignment 9
-* Assignment 10 (The course never made it this far)
+* [Assignment 1](https://martin-haugh.github.io/files/FoundationsFE/)
+* [Assignment 2](https://martin-haugh.github.io/files/FoundationsFE/)
+* [Assignment 3](https://martin-haugh.github.io/files/FoundationsFE/)
+* [Assignment 4](https://martin-haugh.github.io/files/FoundationsFE/)
+* [Assignment 5](https://martin-haugh.github.io/files/FoundationsFE/)
+* [Assignment 6](https://martin-haugh.github.io/files/FoundationsFE/)
+* [Assignment 7](https://martin-haugh.github.io/files/FoundationsFE/)
+* [Assignment 8](https://martin-haugh.github.io/files/FoundationsFE/)
+* [Assignment 9](https://martin-haugh.github.io/files/FoundationsFE/)
+* [Assignment 10 (The course never made it this far)
