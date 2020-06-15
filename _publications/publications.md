@@ -23,8 +23,8 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 * [A Cournot-Stackelberg Model of Supply Contracts with Financial Hedging](https://martin-haugh.github.io/files/Research/Master_Cournot-Stackelberg_R1.pdf) (2016), with Rene Caldentey.
 
 ### Published Papers
-* [Scenario Analysis for Derivatives Portfolios via Dynamic Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3424127) (2020), with Octavio Ruiz Lacedelli.  
-_Quantitative Finance_, Vol. 20, No. 4, pp 547-571.
+* [Scenario Analysis for Derivatives Portfolios via Dynamic Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3424127), with Octavio Ruiz Lacedelli.  
+_Quantitative Finance_, Vol. 20, No. 4, pp 547-571, 2020.
 * [How to Play Fantasy Sports Strategically (and Win)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3393127) (2018), with Raghav Singal.  
 Forthcoming in _Management Science_.  
 A shorter version of this paper was a finalist in the 2018 MIT Sloan Sports Analytics contest.
