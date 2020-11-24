@@ -19,6 +19,7 @@ author_profile: true
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en) but they are also listed below with links to the PDFs in some cases.
 ### Working Papers
+* [Play Like the Pros? Solving the Game of Darts as a Dynamic Zero-Sum Game](https://arxiv.org/abs/2011.11031) (2020), with Chun Wang.
 * [Information Relaxations and Dynamic Zero-Sum Games](https://arxiv.org/abs/1405.4347) (2014), with Chun Wang.
 * [A Cournot-Stackelberg Model of Supply Contracts with Financial Hedging](https://martin-haugh.github.io/files/Research/Master_Cournot-Stackelberg_R1.pdf) (2016), with Rene Caldentey.
 
