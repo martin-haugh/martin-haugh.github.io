@@ -23,11 +23,12 @@ My research papers can be found [here](/publications).
 ## Teaching
 All of my teaching at Columbia was at the graduate level and mainly focussed on various courses for the MSc degrees in Financial Engineering and Operations Research. Lecture notes and slides for these courses are available [here](/teaching). Since moving to Imperial, my teaching has been for the full-time and part-time MBA programs and the MSc in Business Analytics.
 
-In spring 2013 I co-taught with Garud Iyengar one of the first three MOOCs, i.e. massive open online courses, to be offered by Columbia University. The course was called Financial Engineering and Risk Management and it also featured an interview with Emanuel Derman. This course has now been split into two separate 6-week courses, [FE & RM Part I](https://www.coursera.org/course/fe1) and [FE & RM Part II](https://www.coursera.org/course/fe2). Business Insider listed FE & RM Part I as one of the [best free online business courses](http://www.businessinsider.com/best-free-online-business-courses-2013-10?op=1). 
+In spring 2013 I co-taught with Garud Iyengar one of the first three MOOCs, i.e. massive open online courses, to be offered by Columbia University. The course was called **Financial Engineering and Risk Management** and it also featured an interview with Emanuel Derman. This course has now been split into two separate 6-week courses, [FE & RM Part I](https://www.coursera.org/course/fe1) and [FE & RM Part II](https://www.coursera.org/course/fe2). Business Insider listed FE & RM Part I as one of the [best free online business courses](http://www.businessinsider.com/best-free-online-business-courses-2013-10?op=1). 
 <!---
 In 2013 I was also awarded the Columbia Engineering School Alumni Association’s Distinguished Faculty Teaching Award for excellence in teaching. In 2019 I received the Teaching Excellence Award for Core Module MBA teaching at Imperial College Business School.
 --->
-I also recently finished writing a tutorial on Bayesian Modeling and MCMC. This tutoria grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
+
+I also recently finished writing a tutorial on **Bayesian Modeling and MCMC**. This tutorial grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
 
 ## External Service
 I am an Associate Editor for Operations Research (Financial Engineering Department) and Management Science (Stochastics and Finance Departments).
