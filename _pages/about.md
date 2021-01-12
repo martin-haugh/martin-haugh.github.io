@@ -27,7 +27,7 @@ In spring 2013 I co-taught with Garud Iyengar one of the first three MOOCs, i.e.
 <!---
 In 2013 I was also awarded the Columbia Engineering School Alumni Association’s Distinguished Faculty Teaching Award for excellence in teaching. In 2019 I received the Teaching Excellence Award for Core Module MBA teaching at Imperial College Business School.
 --->
-I recently finished writing a tutorial on Bayesian Modeling and MCMC which grew out of some lecture notes I wrote a while back for course on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
+I also recently finished writing a tutorial on Bayesian Modeling and MCMC. This tutoria grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
 
 ## External Service
 I am an Associate Editor for Operations Research (Financial Engineering Department) and Management Science (Stochastics and Finance Departments).
