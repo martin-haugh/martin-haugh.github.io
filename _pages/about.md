@@ -13,11 +13,11 @@ I am an Associate Professor of Analytics and Operations Research at [Imperial Co
 ## Research
 My main research interests are in the areas of:
 1. **Quantitative finance and risk management**  <!---<br/>  <font size = "-1"> </font>  --->   
-    Recently I've been working on problems related to portfolio optimization with taxes as well as scenario analysis in risk managment. I've also done some work on _derivatives pricing_ (American, swing and leveraged ETF options) and dynamic portfolio optimization. 
+    Recently I've been working on problems related to portfolio optimization with taxes as well as scenario analysis in risk managment. I've also done some work on derivatives pricing (American, swing and leveraged ETF options) and dynamic portfolio optimization. 
 2. **Dynamic programing and stochastic control**  
-    I've mainly been working on the problems related to _information relaxations_. These ideas allow for the construction of tight lower and upper bounds on the optimal value functions of problems where it is too difficult to compute the optimal value function and policy exactly. 
+    I've mainly been working on the problems related to **information relaxations**. These ideas allow for the construction of tight lower and upper bounds on the optimal value functions of problems where it is too difficult to compute the optimal value function and policy exactly. 
 3. **Data analytics**     
-   I've been working in the area of _sports analytics_ recently and have also begun working on some problems related to politics and elections. 
+   I've been working in the area of sports analytics recently and have also begun working on some problems related to politics and elections. 
 
 My research papers can be found [here](/publications).
 ## Teaching
@@ -28,7 +28,7 @@ In spring 2013 I co-taught with Garud Iyengar one of the first three MOOCs, i.e.
 In 2013 I was also awarded the Columbia Engineering School Alumni Association’s Distinguished Faculty Teaching Award for excellence in teaching. In 2019 I received the Teaching Excellence Award for Core Module MBA teaching at Imperial College Business School.
 --->
 
-I also recently finished writing a tutorial on **Bayesian Modeling and MCMC**. This tutorial grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
+I also recently finished writing a tutorial on **MCMC and Bayesian Modeling**. This tutorial grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
 
 ## External Service
 I am an Associate Editor for Operations Research (Financial Engineering Department) and Management Science (Stochastics and Finance Departments).
