@@ -38,6 +38,7 @@ Tibshirani](http://www.statlearning.com/) (2) [David Barber](http://web4.cs.ucl.
 10. The EM Algorithm ([Notes](https://martin-haugh.github.io/files/MachineLearningORFE/EM_Algorithm.pdf) and [slides](https://martin-haugh.github.io/files/MachineLearningORFE/EM_MasterSlides.pdf))
 11. [Dimension Reduction Methods](https://martin-haugh.github.io/files/MachineLearningORFE/DimRed_MatrixDecomp_MasterSlides.pdf) (PCA, kernel PCA, recommender systems and matrix factorization, PageRank)
 12. [Hidden Markov Models](https://martin-haugh.github.io/files/MachineLearningORFE/HMMs_MasterSlides.pdf) (HMMs)
-13. Bayesian Models and MCMC ([Notes](https://martin-haugh.github.io/files/MachineLearningORFE/MCMC_Bayes.pdf) and [slides](https://martin-haugh.github.io/files/MachineLearningORFE/MCMC_MasterSlides.pdf) from my Monte-Carlo Simulation course)
+13. Bayesian Models and MCMC ([Notes](https://martin-haugh.github.io/files/MachineLearningORFE/MCMC_Bayes.pdf) and [slides](https://martin-haugh.github.io/files/MachineLearningORFE/MCMC_MasterSlides.pdf) from my Monte-Carlo Simulation course)  
+An extended tutorial on **MCMC and Bayesian Modeling** that grew out of these notes can be found [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
 14. Introduction to Graphical Models (Directed acyclic graphs (DAGs) and Markov random fields)
 15. [Variational Inference](https://martin-haugh.github.io/files/MachineLearningORFE/DeterministicInf_MasterSlides.pdf) (KL divergence, variational Bayes, expectation propagation)
