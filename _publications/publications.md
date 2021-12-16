@@ -19,10 +19,10 @@ author_profile: true
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en) but they are also listed below with links to the PDFs in some cases.
 ### Working Papers
+* [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 * [Play Like the Pros? Solving the Game of Darts as a Dynamic Zero-Sum Game](https://arxiv.org/pdf/2011.11031.pdf) (2020), with Chun Wang.  
   Python code and data for this paper is available [here](https://www.dropbox.com/sh/ayzkh0njs2zzuho/AACCSR1_FzB8m6Mj-_Ha7G8Aa?dl=0).
 * [Information Relaxations and Dynamic Zero-Sum Games](https://arxiv.org/pdf/1405.4347.pdf) (2014), with Chun Wang.
-* [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 
 ### Published Papers
 * [Scenario Analysis for Derivatives Portfolios via Dynamic Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3424127), with Octavio Ruiz Lacedelli.  
