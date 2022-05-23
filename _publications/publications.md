@@ -24,7 +24,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ### Published Papers
 * [Play Like the Pros? Solving the Game of Darts as a Dynamic Zero-Sum Game](https://arxiv.org/pdf/2011.11031.pdf) (2020), with Chun Wang.  
-  Forthcoming in _INFORMS Journal on Computing_. 
+  Forthcoming in _INFORMS Journal on Computing_.  
   Python code and data for this paper is available [here](https://www.dropbox.com/sh/ayzkh0njs2zzuho/AACCSR1_FzB8m6Mj-_Ha7G8Aa?dl=0).
 * [Scenario Analysis for Derivatives Portfolios via Dynamic Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3424127), with Octavio Ruiz Lacedelli.  
 _Quantitative Finance_, Vol. 20, No. 4, pp 547-571, 2020.
