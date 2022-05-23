@@ -20,18 +20,19 @@ author_profile: true
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en) but they are also listed below with links to the PDFs in some cases.
 ### Working Papers
 * [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
-* [Play Like the Pros? Solving the Game of Darts as a Dynamic Zero-Sum Game](https://arxiv.org/pdf/2011.11031.pdf) (2020), with Chun Wang.  
-  Python code and data for this paper is available [here](https://www.dropbox.com/sh/ayzkh0njs2zzuho/AACCSR1_FzB8m6Mj-_Ha7G8Aa?dl=0).
 * [Information Relaxations and Dynamic Zero-Sum Games](https://arxiv.org/pdf/1405.4347.pdf) (2014), with Chun Wang.
 
 ### Published Papers
+* [Play Like the Pros? Solving the Game of Darts as a Dynamic Zero-Sum Game](https://arxiv.org/pdf/2011.11031.pdf) (2020), with Chun Wang.  
+  Forthcoming in _INFORMS Journal on Computing_. 
+  Python code and data for this paper is available [here](https://www.dropbox.com/sh/ayzkh0njs2zzuho/AACCSR1_FzB8m6Mj-_Ha7G8Aa?dl=0).
 * [Scenario Analysis for Derivatives Portfolios via Dynamic Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3424127), with Octavio Ruiz Lacedelli.  
 _Quantitative Finance_, Vol. 20, No. 4, pp 547-571, 2020.
-* [How to Play Fantasy Sports Strategically (and Win)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3393127) (2018), with Raghav Singal.  
-Forthcoming in _Management Science_.  
+* [How to Play Fantasy Sports Strategically (and Win)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3393127) (2021), with Raghav Singal.  
+ _Management Science_, Vol. 67, No. 1, pp 72-92.  
 A shorter version of this paper was a finalist in the 2018 MIT Sloan Sports Analytics contest.
 * [Information Relaxation Bounds for Partially Observed Markov Decision Processes](https://martin-haugh.github.io/files/Research/POMDP_IR_March_2019.pdf) (2017), with Octavio Ruiz Lacedelli.  
-Forthcoming in _IEEE Transactions on Automatic Control_.  
+_IEEE Transactions on Automatic Control_, Vol. 65, No. 8, August, pp 3256-3271.  
 An additional appendix with an application to mammography screening is [here](https://martin-haugh.github.io/files/Research/POMDP_Mammography_ForWebsite.pdf).
 * [The Advantage of Lefties in One-On-One Sports](https://www.degruyter.com/view/j/jqas.2019.15.issue-1/jqas-2017-0076/jqas-2017-0076.xml), with Francois Fagan and Hal Cooper.  
   _Journal of Quantitative Analysis in Sports_, Vol. 15, Issue 1, pp 1-25, 2018.
