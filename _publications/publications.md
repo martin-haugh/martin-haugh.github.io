@@ -22,7 +22,6 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 * [Counterfactual Analysis in Dynamic Models: Copulas and Bounds]() (2022), with Raghav Singal.
 * [Wasserstein Logistic Regression with Mixed Features](http://arxiv.org/abs/2205.13501) (2022), with Aras Selvi, Reza Belbasi and Wolfram Wiesemann.
 * [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
-* [Information Relaxations and Dynamic Zero-Sum Games](https://arxiv.org/pdf/1405.4347.pdf) (2014), with Chun Wang.
 
 ### Published Papers
 * [Play Like the Pros? Solving the Game of Darts as a Dynamic Zero-Sum Game](https://arxiv.org/pdf/2011.11031.pdf) (2020), with Chun Wang.  
@@ -82,6 +81,7 @@ _Computing in Science and Engineering_, May/June, Vol. 3, No. 3, pp 54-59, 2001.
 
 ### Permanent  Working Papers
 * [Portfolio Optimization with Position Constraints: an Approximate Dynamic Programming Approach](https://martin-haugh.github.io/files/Research/ADP_Dual_Oct06.pdf) (2006), with Leonid Kogan and Zhen Wu.
+* [Information Relaxations and Dynamic Zero-Sum Games](https://arxiv.org/pdf/1405.4347.pdf) (2014), with Chun Wang.
 
 ### Book Chapters
 * [Duality and Approximate Dynamic Programming for Pricing American Options and Portfolio Optimization](https://martin-haugh.github.io/files/Research/Chap22.pdf) with Leonid Kogan.  
