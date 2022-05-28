@@ -33,7 +33,7 @@ _Quantitative Finance_, Vol. 20, No. 4, pp 547-571, 2020.
 * [How to Play Fantasy Sports Strategically (and Win)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3393127) (2021), with Raghav Singal.  
  _Management Science_, Vol. 67, No. 1, pp 72-92.  
 A shorter version of this paper was a finalist in the 2018 MIT Sloan Sports Analytics contest.
-* [Information Relaxation Bounds for Partially Observed Markov Decision Processes](https://martin-haugh.github.io/files/Research/POMDP_IR_March_2019.pdf) (2017), with Octavio Ruiz Lacedelli.  
+* [Information Relaxation Bounds for Partially Observed Markov Decision Processes](https://martin-haugh.github.io/files/Research/POMDP_IR_March_2019.pdf) (2020), with Octavio Ruiz Lacedelli.  
 _IEEE Transactions on Automatic Control_, Vol. 65, No. 8, August, pp 3256-3271.  
 An additional appendix with an application to mammography screening is [here](https://martin-haugh.github.io/files/Research/POMDP_Mammography_ForWebsite.pdf).
 * [The Advantage of Lefties in One-On-One Sports](https://www.degruyter.com/view/j/jqas.2019.15.issue-1/jqas-2017-0076/jqas-2017-0076.xml), with Francois Fagan and Hal Cooper.  
