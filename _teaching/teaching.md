@@ -13,6 +13,8 @@ author_profile: true
 {% endfor %}
 --->
 
+At Imperial I've been teaching Decision Analytics for the full-time and part-time MBA programs and several courses (Foundations of Maths & Statistics, Advanced Machine Learning, Financial Analytics) for the MSc in Business Analytics. In spring 2023 I co-taught an MRes / PhD course on Machine Learning for Analytics, Marketing and Operations.
+
 I have taught the following courses for the MSFE and MSOR programs in the IE & OR Department at Columbia University. Course material in some instances can be found by following the corresponding link.
 
 * IEOR E4525  [Machine Learning for OR and FE](/teaching/ml-orfe)  
