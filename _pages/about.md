@@ -13,7 +13,7 @@ I am an Associate Professor of Analytics and Operations Research at [Imperial Co
 ## Research
 My main research interests are in the areas of:
 1. **Quantitative finance and risk management**   
-    Recently I've been working on problems related to portfolio optimization with taxes as well as the use of deep learning in risk managment. I've also done some work on derivatives pricing (American, swing and leveraged ETF options) and dynamic portfolio optimization. 
+    Recently I've been working on problems related to portfolio optimization with taxes as well using deep learning in risk managment. I've also done some work on derivatives pricing (American, swing and leveraged ETF options) and dynamic portfolio optimization. 
 2. **Dynamic programing and stochastic control**  
     I've mainly been working on the problems related to _information relaxations_. These ideas allow for the construction of tight lower and upper bounds on the optimal value functions of problems where it is too difficult to compute the optimal value function and policy exactly. 
 3. **Data analytics**     
