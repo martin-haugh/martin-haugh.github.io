@@ -23,7 +23,7 @@ My research papers can be found [here](/publications).
 ## Teaching
 At Imperial I've been teaching Decision Analytics for the full-time and part-time MBA programs and several courses (Foundations of Maths & Statistics, Advanced Machine Learning, Financial Analytics) for the MSc in Business Analytics. In spring 2023 I co-taught an MRes / PhD course on Machine Learning for Analytics, Marketing and Operations.
 
-All of my teaching at Columbia was at the graduate level and mainly focussed on various courses for the MSc degrees in Financial Engineering and Operations Research. Lecture notes and slides for these courses are available [here](/teaching). In spring 2013 I co-taught with Garud Iyengar one of the first three MOOCs, i.e. massive open online courses, to be offered by Columbia University. The course was called **Financial Engineering and Risk Management** and was cited by Business Insider as one of the [best free online business courses](http://www.businessinsider.com/best-free-online-business-courses-2013-10?op=1). (It also featured an interview with Emanuel Derman.) The course is no longer available but is now used in a suite of courses that together commprise a [specialisation](https://www.coursera.org/specializations/financialengineering) in Financial Engineering and Risk Management. 
+All of my teaching at Columbia was at the graduate level and mainly focussed on various courses for the MSc degrees in Financial Engineering and Operations Research. Lecture notes and slides for these courses are available [here](/teaching). In spring 2013 I co-taught with Garud Iyengar one of the first three MOOCs, i.e. massive open online courses, to be offered by Columbia University. The course was called **Financial Engineering and Risk Management** and was cited by Business Insider as one of the [best free online business courses](http://www.businessinsider.com/best-free-online-business-courses-2013-10?op=1). (It also featured an interview with Emanuel Derman.) The course is no longer available but is now used in a suite of courses that together comprise a [specialisation](https://www.coursera.org/specializations/financialengineering) in Financial Engineering and Risk Management. 
 <!---
 In 2013 I was also awarded the Columbia Engineering School Alumni Association’s Distinguished Faculty Teaching Award for excellence in teaching. In 2019 I received the Teaching Excellence Award for Core Module MBA teaching at Imperial College Business School.
 --->
@@ -31,7 +31,7 @@ In 2013 I was also awarded the Columbia Engineering School Alumni Association’
 I also recently finished writing a tutorial on **MCMC and Bayesian Modeling**. This tutorial grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
 
 ## External Service
-I am an Associate Editor for Operations Research (Financial Engineering Department) and Management Science (Finance Department).
+I am an Associate Editor (AE) for Operations Research (Financial Engineering Department) and Management Science (Finance Department). I was also previously an AE for the Stochastics Department at Management Science.
 
 ## Contact Information
 Martin Haugh  
