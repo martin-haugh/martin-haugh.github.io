@@ -20,11 +20,11 @@ author_profile: true
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en) but they are also listed below with links to the PDFs in some cases.
 ### Working Papers
 * [An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](https://arxiv.org/abs/2302.10750) (2023), with Chun Wang.
-* [Counterfactual Analysis in Dynamic Latent-State Models](http://arxiv.org/abs/2205.13832) (2022), with Raghav Singal.
 * [Multi-Market Cournot Equilibria with Heterogeneous Resource-Constrained Firms](https://martin-haugh.github.io/files/Research/Asymmetric_Cournot_Equilibria_with_Resource_Constraints.pdf) (2022), with Rene Caldentey.
 * [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 
 ### Published Papers
+* [Counterfactual Analysis in Dynamic Latent-State Models](http://arxiv.org/abs/2205.13832) (2022), with Raghav Singal. Forthcoming in ICML 2023.
 * [Wasserstein Logistic Regression with Mixed Features](http://arxiv.org/abs/2205.13501) (2022), with Aras Selvi, Reza Belbasi and Wolfram Wiesemann.
   _NeurIPS_ 2022. 
 * [Play Like the Pros? Solving the Game of Darts as a Dynamic Zero-Sum Game](https://arxiv.org/pdf/2011.11031.pdf) (2020), with Chun Wang.  
