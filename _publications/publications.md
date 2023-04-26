@@ -25,7 +25,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ### Published Papers
 * [Counterfactual Analysis in Dynamic Latent-State Models](http://arxiv.org/abs/2205.13832) (2023), with Raghav Singal.   
-Forthcoming in _Proceedings of 40th International Conference on Machine Learning_ (ICML 2023).
+Forthcoming in the _Proceedings of the 40th International Conference on Machine Learning_ (ICML 2023).
 * [Wasserstein Logistic Regression with Mixed Features](http://arxiv.org/abs/2205.13501) (2022), with Aras Selvi, Reza Belbasi and Wolfram Wiesemann.  
 In _Advances in Neural Information Processing Systems 35_ (NeurIPS 2022).
 * [Play Like the Pros? Solving the Game of Darts as a Dynamic Zero-Sum Game](https://arxiv.org/pdf/2011.11031.pdf) (2022), with Chun Wang.  
