@@ -31,7 +31,7 @@ In 2013 I was also awarded the Columbia Engineering School Alumni Association’
 I also recently finished writing a tutorial on **MCMC and Bayesian Modeling**. This tutorial grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
 
 ## External Service
-I am an Associate Editor (AE) for Operations Research (Financial Engineering Department) and Management Science (Finance Department). I was also previously an AE for the Stochastics Department at Management Science.
+I am an Associate Editor (AE) for _Management Science_ (Finance department) and _INFORMS Journal on Computing_ (Stochastic Models and Reinforcement Learning department). I was previously an AE for the Stochastics department at _Management Science_ and the Financial Engineering department at _Operations Research_.
 
 ## Contact Information
 Martin Haugh  
