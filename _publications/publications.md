@@ -19,7 +19,7 @@ author_profile: true
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en) but they are also listed below with links to the PDFs in some cases.
 ### Working Papers
-* [A Counterfactual Analysis of the Dishonest Casino]([https://ssrn.com/abstract=4529724](http://arxiv.org/abs/2405.15120)) (2024), with Raghav Singal.  
+* [A Counterfactual Analysis of the Dishonest Casino](http://arxiv.org/abs/2405.15120) (2024), with Raghav Singal.  
 * [Bounding Counterfactuals in Hidden Markov Models and Beyond](https://ssrn.com/abstract=4529724) (2023), with Raghav Singal.  
   This is an extended version of the ICML 2023 paper _Counterfactual Analysis in Dynamic Latent-State Models_ listed below.
 * [An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](https://arxiv.org/abs/2302.10750) (2023), with Chun Wang.
