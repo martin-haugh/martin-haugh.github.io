@@ -26,13 +26,13 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 * [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 
 ### Published Papers
-* [Multi-Market Cournot Equilibria with Heterogeneous Resource-Constrained Firms](https://martin-haugh.github.io/files/Research/Cournot-Asymmetric_Final.pdf) (2022), with Rene Caldentey. Forthcoming in _Operations Research_.
+* [Multi-Market Cournot Equilibria with Heterogeneous Resource-Constrained Firms](https://martin-haugh.github.io/files/Research/Cournot-Asymmetric_Final.pdf) (2024), with Rene Caldentey. _Operations Research_, Vol. 72, Number: 3 (May-June), pp 940-956
 * [Counterfactual Analysis in Dynamic Latent-State Models](http://arxiv.org/abs/2205.13832) (2023), with Raghav Singal.   
  _Proceedings of the 40th International Conference on Machine Learning_ (ICML 2023).
 * [Wasserstein Logistic Regression with Mixed Features](http://arxiv.org/abs/2205.13501) (2022), with Aras Selvi, Reza Belbasi and Wolfram Wiesemann.  
 In _Advances in Neural Information Processing Systems 35_ (NeurIPS 2022).
 * [Play Like the Pros? Solving the Game of Darts as a Dynamic Zero-Sum Game](https://arxiv.org/pdf/2011.11031.pdf) (2022), with Chun Wang.  
-  _INFORMS Journal on Computing_, Vol. 34, Issue 5.  
+  _INFORMS Journal on Computing_, Vol. 34, Issue 5, pp 2540-2551.  
   Python code and data for this paper is available [here](https://www.dropbox.com/sh/ayzkh0njs2zzuho/AACCSR1_FzB8m6Mj-_Ha7G8Aa?dl=0).
 * [Scenario Analysis for Derivatives Portfolios via Dynamic Factor Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3424127), (2020) with Octavio Ruiz Lacedelli.  
 _Quantitative Finance_, Vol. 20, No. 4, pp 547-571.
