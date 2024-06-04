@@ -27,7 +27,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 
 ### Published Papers
 * [Multi-Market Cournot Equilibria with Heterogeneous Resource-Constrained Firms](https://martin-haugh.github.io/files/Research/Cournot-Asymmetric_Final.pdf) (2024), with Rene Caldentey.  
- _Operations Research_, Vol. 72, No. 3 (May-June), pp 940-956
+ _Operations Research_, Vol. 72, No. 3 (May-June), pp 940-956.
 * [Counterfactual Analysis in Dynamic Latent-State Models](http://arxiv.org/abs/2205.13832) (2023), with Raghav Singal.   
  _Proceedings of the 40th International Conference on Machine Learning_ (ICML 2023).
 * [Wasserstein Logistic Regression with Mixed Features](http://arxiv.org/abs/2205.13501) (2022), with Aras Selvi, Reza Belbasi and Wolfram Wiesemann.  
