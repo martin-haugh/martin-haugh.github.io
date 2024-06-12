@@ -25,7 +25,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 * [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 
 ### Published Papers
-* [An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](https://arxiv.org/abs/2302.10750) (2023), with Chun Wang.
+* [An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](https://arxiv.org/abs/2302.10750) (2023), with Chun Wang.  
   Forthcoming in the _Journal of Quantitative Analysis in Sports_.
 * [Multi-Market Cournot Equilibria with Heterogeneous Resource-Constrained Firms](https://martin-haugh.github.io/files/Research/Cournot-Asymmetric_Final.pdf) (2024), with Rene Caldentey.  
  _Operations Research_, Vol. 72, No. 3 (May-June), pp 940-956.
