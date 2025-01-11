@@ -20,7 +20,7 @@ author_profile: true
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en) but they are also listed below with links to the PDFs in some cases.
 ### Working Papers
 * [A Counterfactual Analysis of the Dishonest Casino](http://arxiv.org/abs/2405.15120) (2024), with Raghav Singal.  
-* [Bounding Counterfactuals in Hidden Markov Models and Beyond](https://ssrn.com/abstract=4529724) (2023), with Raghav Singal.  
+* [Bounding Counterfactual Outcomes of Health Insurance Delay-and-Deny Practices](https://ssrn.com/abstract=4529724) (2024), with Raghav Singal.  
   This is an extended version of the ICML 2023 paper _Counterfactual Analysis in Dynamic Latent-State Models_ listed below.
 * [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 
