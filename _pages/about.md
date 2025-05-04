@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Analytics and Operations Research at [Imperial College Business School](https://www.imperial.ac.uk/business-school/) (ICBS) where I have been since September 2017. I am also the Academic Director of the [MSc in Business Analytics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/business-analytics/) at ICBS. Prior to joining Imperial I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working as a quant  in the hedge fund industry in New York and London. I have a Ph.D. in [Operations Research](http://orc.mit.edu/) from MIT and MSc degrees in [Applied Statistics](https://www.stats.ox.ac.uk/) and [Mathematics](https://www.ucc.ie/en/matsci/) from the University of Oxford and University College Cork, respectively.
+I am an Associate Professor of Analytics and Operations Research at [Imperial Business School](https://www.imperial.ac.uk/business-school/) (ICBS) where I have been since September 2017. I am also the Academic Director of the [MSc in Business Analytics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/business-analytics/) at ICBS. Prior to joining Imperial I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working as a quant  in the hedge fund industry in New York and London. I have a Ph.D. in [Operations Research](http://orc.mit.edu/) from MIT and MSc degrees in [Applied Statistics](https://www.stats.ox.ac.uk/) and [Mathematics](https://www.ucc.ie/en/matsci/) from the University of Oxford and University College Cork, respectively.
 
 ## Research
 My main research interests are in the areas of:
@@ -36,7 +36,7 @@ I am an Associate Editor (AE) for _Management Science_ (Finance department) and 
 ## Contact Information
 Martin Haugh  
 Department of Analytics, Marketing & Operations  
-Imperial College Business School  
+Imperial Business School  
 South Kensington Campus   
 London SW7 2AZ  
 United Kingdom          
