@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Martin Haugh"
 title_separator          : "-"
 name                     : &name "Martin Haugh"
-description              : &description "Associate Professor of Analytics and Operations Research at Imperial College Business School"
+description              : &description "Associate Professor of Analytics and Operations Research at Imperial Business School"
 url                      : https://martin-haugh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "martin-haugh.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@MartinBHaugh"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
