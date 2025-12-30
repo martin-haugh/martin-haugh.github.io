@@ -27,8 +27,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
   Forthcoming in _Manufacturing & Service Operations Management_.   
   This is an extended version of [Counterfactual Analysis in Dynamic Latent-State Models](http://arxiv.org/abs/2205.13832) that appeared in   
  _Proceedings of the 40th International Conference on Machine Learning_ (ICML 2023)
-* [An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](https://arxiv.org/abs/2302.10750) (2023), with Chun Wang.  
-  Forthcoming in the _Journal of Quantitative Analysis in Sports_.
+* [An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](https://arxiv.org/abs/2302.10750) (2024), with Chun Wang.  _Journal of Quantitative Analysis in Sports_, Vol. 20, No. 4, 2024, pp. 385-404.
 * [Multi-Market Cournot Equilibria with Heterogeneous Resource-Constrained Firms](https://martin-haugh.github.io/files/Research/Cournot-Asymmetric_Final.pdf) (2024), with Rene Caldentey.  
  _Operations Research_, Vol. 72, No. 3 (May-June), pp 940-956.
 * [Wasserstein Logistic Regression with Mixed Features](http://arxiv.org/abs/2205.13501) (2022), with Aras Selvi, Reza Belbasi and Wolfram Wiesemann.  
