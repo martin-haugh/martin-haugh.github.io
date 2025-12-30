@@ -23,7 +23,8 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 * [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 
 ### Published Papers
-* [Bounding Counterfactual Outcomes of Health Insurance Delay-and-Deny Practices](https://ssrn.com/abstract=4529724) (2024), with Raghav Singal. Forthcoming in _Manufacturing & Service Operations Management_. 
+* [Bounding Counterfactual Outcomes of Health Insurance Delay-and-Deny Practices](https://ssrn.com/abstract=4529724) (2024), with Raghav Singal.
+  Forthcoming in _Manufacturing & Service Operations Management_. 
   This is an extended version of [Counterfactual Analysis in Dynamic Latent-State Models](http://arxiv.org/abs/2205.13832)
  _Proceedings of the 40th International Conference on Machine Learning_ (ICML 2023)
 * [An Empirical Bayes Approach for Estimating Skill Models for Professional Darts Players](https://arxiv.org/abs/2302.10750) (2023), with Chun Wang.  
