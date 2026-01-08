@@ -19,11 +19,11 @@ author_profile: true
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en) but they are also listed below with links to the PDFs in some cases.
 ### Working Papers
-* [From Luck to Choice: the Wimbledon Ballot and Matching Markets*](http://arxiv.org/abs/2405.15120) (2026).
+* [From Luck to Choice: the Wimbledon Ballot and Matching Markets](http://arxiv.org/abs/2405.15120) (2026).
 * [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 
 ### Published Papers
-* [A Counterfactual Analysis of the Dishonest Casino](http://arxiv.org/abs/2405.15120) (2024), with Raghav Singal.
+* [A Counterfactual Analysis of the Dishonest Casino](http://arxiv.org/abs/2405.15120) (2024), with Raghav Singal.  
   Forthcoming in _Journal of Causal Inference_.
 * [Bounding Counterfactual Outcomes of Health Insurance Delay-and-Deny Practices](https://ssrn.com/abstract=4529724) (2024), with Raghav Singal.  
   Forthcoming in _Manufacturing & Service Operations Management_.   
