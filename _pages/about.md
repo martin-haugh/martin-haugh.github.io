@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor of Analytics and Operations Research at [Imperial Business School](https://www.imperial.ac.uk/business-school/) (ICBS) where I have been since September 2017. I am also the Academic Director of the [MSc in Business Analytics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/business-analytics/) at ICBS. Prior to joining Imperial I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working as a quant  in the hedge fund industry in New York and London. I have a Ph.D. in [Operations Research](http://orc.mit.edu/) from MIT and MSc degrees in [Applied Statistics](https://www.stats.ox.ac.uk/) and [Mathematics](https://www.ucc.ie/en/matsci/) from the University of Oxford and University College Cork, respectively.
+I am an Associate Professor of Analytics and Operations Research at [Imperial Business School](https://www.imperial.ac.uk/business-school/) (IBS) where I have been since September 2017. I recently stepped down as the Academic Director of the [MSc in Business Analytics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/business-analytics/) at IBS and am now the Deputy Head of the Analytics, Marketing & Operations Department at IBS. Prior to joining Imperial I spent more than 10 years in the Department of IE & OR at Columbia University as well as 4 years working as a quant in the hedge fund industry in New York and London. I have a Ph.D. in [Operations Research](http://orc.mit.edu/) from MIT and MSc degrees in [Applied Statistics](https://www.stats.ox.ac.uk/) and [Mathematics](https://www.ucc.ie/en/matsci/) from the University of Oxford and University College Cork, respectively.
 
 ## Research
 My main research interests are in the areas of:
 1. **Quantitative finance and risk management**   
-    Recently I've been working on problems related to portfolio optimization with taxes as well using deep learning in risk managment. I've also done some work on derivatives pricing (American, swing and leveraged ETF options) and dynamic portfolio optimization. 
+    Recently I've been working on problems related to dynamic portfolio optimization with taxes as well as problems related to robo-advising and risk management. I've also done some work on derivatives pricing (American, swing and leveraged ETF options) and dynamic portfolio optimization. 
 2. **Dynamic programing and stochastic control**  
     I've mainly been working on the problems related to _information relaxations_. These ideas allow for the construction of tight lower and upper bounds on the optimal value functions of problems where it is too difficult to compute the optimal value function and policy exactly. 
 3. **Data analytics**     
@@ -21,17 +21,17 @@ My main research interests are in the areas of:
 
 My research papers can be found [here](/publications).
 ## Teaching
-At Imperial I've been teaching Decision Analytics for the full-time and part-time MBA programs and several courses (Foundations of Maths & Statistics, Advanced Machine Learning, Financial Analytics) for the MSc in Business Analytics. In spring 2023 I co-taught an MRes / PhD course on Machine Learning while in spring 2024 and 2025 I taught an MRes / PhD course on Stochastic Processes.
+At Imperial I've been teaching Decision Analytics for the full-time and part-time MBA programs and several courses (Foundations of Maths & Statistics, Advanced Machine Learning, Financial Analytics) for the MSc in Business Analytics. In spring 2023 I co-taught a PhD course on Machine Learning and in each spring since 2024 I've been teaching a PhD course on Stochastic Processes.
 
 All of my teaching at Columbia was at the graduate level and mainly focussed on various courses for the MSc degrees in Financial Engineering and Operations Research. Lecture notes and slides for these courses are available [here](/teaching). In spring 2013 I co-taught with Garud Iyengar one of the first three MOOCs, i.e. massive open online courses, to be offered by Columbia University. The course was called **Financial Engineering and Risk Management** and was cited by Business Insider as one of the [best free online business courses](http://www.businessinsider.com/best-free-online-business-courses-2013-10?op=1). (It also featured an interview with Emanuel Derman.) The course is no longer available but is now used in a suite of courses that together comprise a [specialisation](https://www.coursera.org/specializations/financialengineering) in Financial Engineering and Risk Management. 
 <!---
 In 2013 I was also awarded the Columbia Engineering School Alumni Association’s Distinguished Faculty Teaching Award for excellence in teaching. In 2019 I received the Teaching Excellence Award for Core Module MBA teaching at Imperial College Business School.
 --->
 
-I also recently finished writing a tutorial on **MCMC and Bayesian Modeling**. This tutorial grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
+I have recently written an [article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6040234) (forthcoming in [CHANCE magazine](https://www.tandfonline.com/journals/ucha20)) on how matching markets and specifically the Top-Trading Cycles algorithm could be used to improve the Wimbledon ballot. Less recently, I finished writing a tutorial on **MCMC and Bayesian Modeling**. This tutorial grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
 
 ## External Service
-I am an Associate Editor (AE) for _Management Science_ (Finance department) and _INFORMS Journal on Computing_ (Stochastic Models and Reinforcement Learning department). I was previously an AE for the Stochastics department at _Management Science_ and the Financial Engineering department at _Operations Research_.
+I am an Associate Editor (AE) _INFORMS Journal on Computing_ (Stochastic Models and Reinforcement Learning department). I was previously an AE for the Stochastics department at _Management Science_, the Finance department at _Management Science_ and the Financial Engineering department at _Operations Research_.
 
 ## Contact Information
 Martin Haugh  
