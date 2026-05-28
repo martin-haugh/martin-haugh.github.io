@@ -22,10 +22,10 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 * [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 
 ### Published Papers / Articles
-* [From Luck to Choice: the Wimbledon Ballot and Matching Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6040234) (2026).  
-  Forthcoming in _CHANCE Magazine_.
-* [A Counterfactual Analysis of the Dishonest Casino](http://arxiv.org/abs/2405.15120) (2024), with Raghav Singal.  
-  Forthcoming in _Journal of Causal Inference_.
+* [From Luck to Choice: the Wimbledon Ballot and Matching Markets](https://doi.org/10.1080/09332480.2026.2648468) (2026).  
+  _CHANCE_, Vol. 39, No. 1, pp. 23--34
+* [A Counterfactual Analysis of the Dishonest Casino](https://doi.org/10.1515/jci-2024-0023) (2026), with Raghav Singal.  
+  _Journal of Causal Inference_, Vol. 14, No. 1, pp.20240023.
 * [Bounding Counterfactual Outcomes of Health Insurance Delay-and-Deny Practices](https://ssrn.com/abstract=4529724) (2024), with Raghav Singal.  
   Forthcoming in _Manufacturing & Service Operations Management_.   
   This is an extended version of [Counterfactual Analysis in Dynamic Latent-State Models](http://arxiv.org/abs/2205.13832) that appeared in   
