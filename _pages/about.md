@@ -31,7 +31,7 @@ In 2013 I was also awarded the Columbia Engineering School Alumni Association’
 I have recently written an [article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6040234) (forthcoming in [CHANCE magazine](https://www.tandfonline.com/journals/ucha20)) on how matching markets and specifically the Top-Trading Cycles algorithm could be used to improve the Wimbledon ballot. Less recently, I finished writing a tutorial on **MCMC and Bayesian Modeling**. This tutorial grew out of some lecture notes I wrote a while back for courses on Monte-Carlo Simulation and Machine Learning. The tutorial is available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759243).
 
 ## External Service
-I am an Associate Editor (AE) _INFORMS Journal on Computing_ (Stochastic Models and Reinforcement Learning department). I was previously an AE for the Stochastics department at _Management Science_, the Finance department at _Management Science_ and the Financial Engineering department at _Operations Research_.
+I am an Associate Editor (AE) _INFORMS Journal on Computing_ (Stochastic Models and Reinforcement Learning department) and _Operations Research Letters_ (Financial Engineering area). I was previously an AE for the Stochastics department at _Management Science_, the Finance department at _Management Science_ and the Financial Engineering department at _Operations Research_.
 
 ## Contact Information
 Martin Haugh  
