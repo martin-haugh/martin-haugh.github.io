@@ -19,7 +19,7 @@ author_profile: true
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en) but they are also listed below with links to the PDFs in some cases.
 ### Working Papers
-* [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
+* [Speed of Intervention in Algorithmic Markets: Controlling Collusion and Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7269718) (2026), with Rene Caldentey and Xie Tong.
 
 ### Published Papers / Articles
 * [From Luck to Choice: the Wimbledon Ballot and Matching Markets](https://doi.org/10.1080/09332480.2026.2648468) (2026).  
@@ -92,6 +92,7 @@ _Mathematical Proceedings of the Royal Irish Academy_, Vol 97, December, No 2, p
 ### Permanent  Working Papers
 * [Portfolio Optimization with Position Constraints: an Approximate Dynamic Programming Approach](https://martin-haugh.github.io/files/Research/ADP_Dual_Oct06.pdf) (2006), with Leonid Kogan and Zhen Wu.
 * [Information Relaxations and Dynamic Zero-Sum Games](https://arxiv.org/pdf/1405.4347.pdf) (2014), with Chun Wang.
+* [Production Postponement with Borrowing and Hedging in a Competitive Supply Chain](https://martin-haugh.github.io/files/Research/On_the_Value_of_Production_Postponement_in_Financially_Constrained_Supply_Chains.pdf) (2021), with Rene Caldentey.
 
 ### Book Chapters
 * [Duality and Approximate Dynamic Programming for Pricing American Options and Portfolio Optimization](https://martin-haugh.github.io/files/Research/Chap22.pdf) with Leonid Kogan.  
