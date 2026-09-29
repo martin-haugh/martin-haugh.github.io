@@ -19,7 +19,7 @@ author_profile: true
 
 You can find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=cSXJYiUAAAAJ&hl=en) but they are also listed below with links to the PDFs in some cases.
 ### Working Papers
-* [When Stress Tests Miss the Risk: Statistical Scenario Analysis for Financial Portfolios]() (2026), with Zhongze Cai and Xiaocheng Li.
+* [When Stress Tests Miss the Risk: Statistical Scenario Analysis for Financial Portfolios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7540098) (2026), with Zhongze Cai and Xiaocheng Li.
 * [Speed of Intervention in Algorithmic Markets: Controlling Collusion and Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7265419) (2026), with Rene Caldentey and Xie Tong.
 
 ### Published Papers / Articles
