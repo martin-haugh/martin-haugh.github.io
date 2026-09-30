@@ -21,7 +21,7 @@ You can find my articles on [my Google Scholar profile](https://scholar.google.c
 ### Working Papers
 * [When Stress Tests Miss the Risk: Statistical Scenario Analysis for Financial Portfolios](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7540098) (2026), with Zhongze Cai and Xiaocheng Li.
 * [Speed of Intervention in Algorithmic Markets: Controlling Collusion and Stability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7265419) (2026), with Rene Caldentey and Xie Tong.  
-  A short version of this paper was accepted to the _DynaFront Workshop, NeurIPS_ 2026
+  A very short version of this paper was accepted to the _DynaFront Workshop, NeurIPS_ 2026
 
 ### Published Papers / Articles
 * [From Luck to Choice: the Wimbledon Ballot and Matching Markets](https://doi.org/10.1080/09332480.2026.2648468) (2026).  
