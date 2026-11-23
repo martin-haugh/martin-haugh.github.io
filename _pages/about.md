@@ -21,7 +21,7 @@ My main research interests are in the areas of:
 
 My research papers can be found [here](https://martin-haugh.github.io/publications/).  
 
-**If you're interested in doing a PhD with me**, please note that the Analytics & Operations Department at Imperial only admits 2-3 students per year. Applicants should have a very strong background in a STEM-related field. If this sounds like you then I'd encourage you to apply and details on how to apply may be found [here](https://www.imperial.ac.uk/business-school/study/phd/). But please note, admissions decisions are made collectively by the department and not by individual faculty. 
+**If you're interested in doing a PhD with me**, please note that the Analytics & Operations Department at Imperial only admits 2-3 students per year and applicants should have a very strong background in a STEM-related field. If this sounds like you then I'd encourage you to apply and details on how to apply may be found [here](https://www.imperial.ac.uk/business-school/study/phd/). But please note, admissions decisions are made collectively by the department and not by individual faculty. 
 ## Teaching
 At Imperial I've been teaching Decision Analytics for the full-time and part-time MBA programs and several courses (Foundations of Maths & Statistics, Advanced Machine Learning, Financial Analytics) for the MSc in Business Analytics. In spring 2023 I co-taught a PhD course on Machine Learning and in each spring since 2024 I've been teaching a PhD course on Stochastic Processes.
 
